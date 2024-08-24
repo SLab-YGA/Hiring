@@ -1,0 +1,27 @@
+MTS (Member of Technical Staff), Algorithms & Applications Team, Software Engineer
+
+Job Summary:
+We are an interdisciplinary, specialized, and international team dedicated to long-term exploratory research aimed at realizing the potential of quantum computing. 
+Our current primary objective is to develop superconducting quantum processors that meet international advanced standards.
+We are currently recruiting talent for the visualization and management of quantum system software. 
+We welcome candidates of all experience levels.
+
+Key Responsibilities:
+• Design, develop, and maintain visualization management features, including task scheduling for quantum computing, parameter configuration, command operations, real-time status monitoring, data analysis, log tracking, and alert systems
+• Develop high-quality code, completing functional development, automated testing, code documentation, development documentation, and user manuals
+• Optimize software implementation logic to continuously improve operational efficiency
+• Conduct preliminary research, technology selection, and prototype experiments based on project requirements, providing feasible solutions and recommendations
+• Collaborate with other development and research teams to complete additional tasks required for the project
+
+Qualifications:
+• Master's degree or above from a regular full-time program in computer science, mathematics, physics, electronic engineering, automation, or related fields. Candidates with a background in quantum computing are preferred. Graduates from top universities (985, 211, or equivalent overseas institutions) are given priority
+• Minimum of 5 years of work experience, with the ability to write efficient, standardized, and maintainable code. Familiarity with software engineering development processes and Git code management
+• Proficiency in fundamental data structures and understanding of operating system concepts such as processes, threads, mutexes, and semaphores. Familiarity with the TCP/IP protocol stack and experience with distributed computing and concurrency practices are preferred
+• Expertise in Python, Django, and Vue frameworks, with proficiency in at least one additional programming language such as JavaScript, C, or C++
+• Experience with database operations and SQL syntax, with practical project experience in MySQL or PostgreSQL
+• Good command of English, capable of reading related technical documents and papers, and writing design documents and emails in English
+• Self-driven, capable of working independently, and possessing strong team collaboration and communication skills
+• Preferred experience in one of the following areas:
+(1) Participated in the development and delivery of similar systems, familiar with the overall system framework, backend service design, and frontend display technologies
+(2) Contributed to open-source quantum computing libraries (e.g., Qiskit, OpenQASM), with knowledge of quantum algorithms, quantum compilers, and quantum simulators
+(3) Experience in developing drivers or services for devices such as waveform digitizers and arbitrary waveform generators
