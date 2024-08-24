@@ -1,0 +1,25 @@
+MTS (Member of Technical Staff), Quantum Operation & Processor Calibration
+
+Job Summary:
+We are seeking scientists and engineers to join our interdisciplinary team focused on calibrating superconducting quantum processors to achieve high fidelity operations. 
+Superconducting quantum circuits, also known as artificial atoms, are human-designed and manufactured. 
+This property offers tremendous opportunities for innovation in processor architecture and quantum operations. 
+However, design and fabrication imperfections necessitate sophisticated calibration of circuit parameters and control signals. 
+Ideal candidates will commit to exploring high-fidelity quantum operations and developing efficient calibration procedures suitable for large-scale quantum processors. 
+All levels of experience are welcome. 
+Candidates with proven leadership skills may be considered for a Team Lead position.
+
+Key Responsibilities: 
+• Set up the cryogenic testing environment, conduct characterizations and calibrations on quantum processors, and convert measured characteristics into actionable modifications in collaboration with other teams
+• Integrate improvements in design, fabrication, and the hardware system into flagship processors
+• Design and implement software suits for automating processor characterization and calibration
+• Conduct pathfinding research aimed at improving operation fidelity and processor architecture
+• (For Team Lead) Lead research projects and deliver timely impactful results
+• (For Team Lead) Provide mentorship and guidance to foster the growth of junior colleagues within the team
+
+Qualifications: 
+• An advanced degree or a proven track record of strong performance in at least one of these fields: quantum physics, experimental condensed matter physics, electronic engineering, and computer science
+• Proficiency in programming languages, notably Python or other scripting languages
+• Experienced in mathematical modeling and error function construction for optimization problems
+• Strong problem-solving skills and ability to work independently
+• Background in superconducting quantum computing is advantageous
