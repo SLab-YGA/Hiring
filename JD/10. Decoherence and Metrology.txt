@@ -1,0 +1,20 @@
+MTS (Member of Technical Staff), Decoherence and Metrology
+
+Job Summary:
+Decoherence presents a primary challenge in advancing quantum computing with superconducting qubits. 
+To extend the coherence times of qubits, it is essential to systematically characterize and quantify decoherence, and then identify its underlying physical mechanisms and develop its mitigation strategies. 
+We are seeking knowledgeable scientists and engineers to join our multidisciplinary team and address the vital task of enhancing qubit coherence. 
+Successful candidates will concentrate on researching the decoherence mechanisms of superconducting qubits in collaboration with our fabrication and theoretical teams. 
+All levels of experience are welcome. 
+Candidates with proven leadership skills may be considered for a Team Lead position.
+
+Key Responsibilities:
+• Perform cryogenic measurement and characterization of superconducting quantum devices
+• Develop metrology devices and tools for decoherence
+• Conduct pathfinding research on the decoherence mechanisms and their mitigation on superconducting quantum devices
+• Contribute to the optimization of materials, fabrication processes, and cryogenic environments
+
+Qualifications: 
+• An advanced degree or a proven track record of strong performance in at least one of these fields: experimental condensed matter physics, applied physics, material science, and electrical engineering
+• Proficiency in programming languages, notably Python or other scripting languages
+• Experienced with experimental design and low-temperature characterization of nano-/mesoscopic scale or microwave devices
