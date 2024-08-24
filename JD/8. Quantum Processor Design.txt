@@ -1,0 +1,20 @@
+MTS (Member of Technical Staff), Quantum Processor Design
+
+Job Summary:
+We are looking for expert scientists and engineers specialized in design and device modeling for superconducting quantum devices to become part of our multidisciplinary team. 
+Successful candidates will design, simulate, and theoretically examine our next general of superconducting quantum processors. 
+All levels of experience are welcome. 
+Candidates with proven leadership skills may be considered for a Team Lead position.
+
+Key Responsibilities: 
+• Simulate the electromagnetic properties of superconducting quantum devices and packaging numerically
+• Create layouts for superconducting quantum processors
+• Innovate qubits, operational modes, and architectures for superconducting quantum processors
+• Contribute to the corresponding EDA tool development
+
+Qualifications:
+• An advanced degree or a proven track record of strong performance in at least one of these fields: theoretical condensed matter physics, AMO physics, computational electromagnetism, electrical/microwave engineering
+• Proficiency in programming languages, notably Python and C/C++
+• Experienced in using design/simulation tools like Ansys HFSS, Sonnet, COMSOL, etc
+• Familiarity with device layout scripting and automation is desirable
+• Background in superconducting quantum device theory, including circuit quantization and circuitQED theory, is advantageous
