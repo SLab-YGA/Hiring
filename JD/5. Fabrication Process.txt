@@ -1,0 +1,25 @@
+MTS (Member of Technical Staff), Fabrication Process
+
+Job Summary:
+Chip fabrication is essential to our program for developing large-scale, high-quality superconducting quantum processors. 
+We strive for top-quality and efficient fabrication through innovation and close collaboration with both industrial and academic partners. 
+We are seeking creative and results-driven researchers and engineers to join our dynamic, multidisciplinary fabrication team. 
+All levels of experience are welcome. 
+Candidates with proven leadership skills may be considered for a Team Lead position.
+
+Key Responsibilities:
+• Based on your background and expertise, you will be responsible for one or more modules in the development of a quantum processor. Your responsibilities may include, but are not limited to:
+  ￮ Fabrication processes (e.g., lithography, deposition, etching, thinning/polishing)
+  ￮ Process integration
+  ￮ Metrology
+  ￮ Research on superconducting and dielectric materials
+  ￮ 3D integration and advanced packaging
+• Work closely with academic and industrial partners
+• (For Team Lead) Lead research projects and deliver timely impactful results
+• (For Team Lead) Provide mentorship and guidance to foster the growth of junior colleagues within the team
+
+Qualifications: 
+• An advanced degree or extensive working experience in relevant technical fields such as superconducting electronics fabrication, semiconductor fabrication, optoelectronics, MEMS, experimental condensed matter physics, materials science, or advanced packaging
+• A proven track record of strong performance in at least one of these fields, and the corresponding in-depth understanding of the technologies
+• Passion and endurance for quantum computing and long-term research projects
+• Strong sense of innovation and team collaboration
