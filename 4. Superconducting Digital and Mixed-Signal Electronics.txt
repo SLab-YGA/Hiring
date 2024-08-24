@@ -1,0 +1,28 @@
+MTS (Member of Technical Staff), Superconducting Digital and Mixed-Signal Electronics
+
+Job Summary:
+We are seeking skilled and motivated engineers with expertise in digital and mixed-signal design and testing to join our multidisciplinary team. 
+The focus will be on developing superconducting digital logic and mixed-signal circuits for the scalable control of superconducting qubits. 
+All levels of experience are welcome. 
+Candidates with proven leadership skills may be considered for a Team Lead position.
+
+Key Responsibilities:
+• (For Team Lead) Build and lead a team of engineers and scientists for the superconducting digital and mixed signal electronics for the control of superconducting qubits.
+• Develop new innovative solutions for digital and mixed-signal circuits using superconducting materials and devices. 
+• Develop new control architecture of superconducting qubits with superconducting digital and mixed signal devices. 
+• (For designer) Perform simulations and physical design of the superconducting circuits.
+• (For designer) Contribute to the corresponding EDA tool development. 
+• (For tester) Perform measurement and characterization of superconducting electronic devices.
+• (For tester) Contribute to metrology and automated testing system development.
+• Collaborate with cross-functional teams to integrate superconducting control electronics with superconducting qubits and optimize performance.
+• (For Team Lead) Provide mentorship and guidance to foster the growth of junior colleagues within the team.
+
+Key Qualifications:
+• An advanced degree or extensive working experience in relevant technical fields such as experimental or theoretical condensed matter physics, computational electromagnetism, electrical engineering, materials science, cryogenic engineering, or computer engineering.
+• A proven track record in one of the following fields: frontend/backend digital logic design and verification, radio frequency (RF) and mixed signal circuits, or superconducting electronics.
+• Strong programming skills.
+• (For designer) Fluency in digital or analog design/simulation tools such as Cadence, Synopsys, Ansys. 
+• (For designer) Familiarity with fabrication process and tapeout procedure. 
+• (For tester) Experience in device measurement and characterization. 
+• (For tester) Experience in cryogenic systems and software control of lab instruments. 
+• Prior experience with superconducting digital logic technologies such as RSFQ or aQFP is a plus. 

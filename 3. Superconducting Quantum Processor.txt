@@ -1,0 +1,12 @@
+MTS (Member of Technical Staff), Superconducting Quantum Processor 
+
+Job Summary:
+To unleash the unprecedented power of quantum computing, we are pioneering the development of large-scale, high-quality superconducting processors based on fluxonium qubits. 
+Over the past few years, our team has developed foundational technologies, including high-quality qubits with millisecond coherence times, efficient and robust qubit initialization, various high-fidelity two-qubit gates, and innovations in designing, manufacturing, and calibrating multi-qubit fluxonium processors.
+To continue our mission at S Lab, we are seeking creative and result-driven researchers and engineers to build a multidisciplinary team. 
+This team will cover superconducting device theory, superconducting quantum circuit design, cryogenic characterization of quantum devices, processor calibration, and hardware and software integration. 
+All levels of experience are welcome. Candidates with proven leadership skills may be considered for a Team Lead position.
+
+Qualification:
+• An advanced degree or extensive working experience in the relevant technical fields: experimental or theoretical condensed matter physics, AMO physics, computational electromagnetism, electrical engineering, material science, cryogenic engineering, computer engineering. 
+• Demonstration of strong track record of success in one the relevant technical fields.

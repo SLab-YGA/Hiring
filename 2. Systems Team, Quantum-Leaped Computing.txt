@@ -1,0 +1,24 @@
+MTS (Member of Technical Staff), Systems Team, Quantum-Leaped Computing
+
+Job Summary:
+We envision the first practical use of quantum computing through what we call "Quantum-Leaped Computing (QLC)," a heterogeneous system integrating CPUs, GPUs, and Quantum Processing Units (QPUs). 
+We are building a team of creative and result-driven architects to design, implement, evaluate, and optimize our QLC systems. 
+All levels of experience are welcome. Candidates with proven leadership skills may be considered for a Team Lead position.
+
+Key Responsibilities:
+• (For Team Lead) Build and lead a team of computer architects and software engineers for QLC systems.
+• Develop methodologies and research infrastructure for QLC systems.
+• Design and prototype scalable and high-performing QLC systems.
+• Collaborate with cross-functional teams to integrate system software and application algorithms and optimize performance.
+• Develop and maintain documentation for system architecture and design specifications.
+• Stay at the forefront of deep learning systems and classical-quantum hybrid systems.
+• (For Team Lead) Provide mentorship and guidance to foster the growth of junior colleagues within the team.
+
+Qualifications:
+• (For Team Lead) A PhD in Computer Science, Computer Engineering, or a related field.
+• Proven record on computer architecture or systems.
+• Strong understanding of deep learning frameworks such as TensorFlow, PyTorch, or Caffe.
+• Proficiency in programming languages such as Python, C++, or Java.
+• Experience with hardware accelerators (e.g., GPUs, TPUs) for deep learning.
+• Knowledge of quantum computing concepts and technologies is a plus.
+• Experience in developing and optimizing algorithms for large-scale data processing.
