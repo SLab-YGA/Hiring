@@ -1,0 +1,23 @@
+MTS (Member of Technical Staff), Quantum Processor Materials 
+
+Job Summary: 
+Innovation and research on materials have long been an important cornerstone for quantum technology advancement. 
+The understanding and manipulation of the interplay between quantum-state coherence and material properties are the key enablers for future practical quantum processor. 
+We strive for top-quality and efficient material research and fabrication through innovation and close collaboration with both industrial and academic partners. 
+We are seeking creative and results-driven researchers and engineers to join our dynamic, multidisciplinary team. 
+All levels of experience are welcome. 
+Candidates with proven leadership skills may be considered for a Team Lead position.
+
+Key Responsibilities:
+• Based on your background and expertise, you will be responsible for one or more modules in the research of material- and fabrication-related projects. Your responsibilities may include, but are not limited to:
+  ￮ Research on superconducting/dielectric/thin film materials for processor performance improvement 
+  ￮ Basic/advanced material characterization (Diffraction/Topography/Transport/Spectrometry/etc.)
+  ￮ Fabrication process modules (e.g., lithography, deposition, etching, thinning/polishing)
+  ￮ Cryogenic physical property testing and microwave testing
+• Work closely with academic and industrial partners
+• Lead research projects and deliver timely impactful results
+
+Qualifications: 
+• An advanced degree or a proven track record of strong performance in at least one of these fields: experimental condensed matter physics, materials science, cryogenic measurement, superconducting electronics fabrication, semiconductor fabrication, optoelectronics, MEMS
+• Passion and endurance for quantum computing and long-term research projects
+• Proficiency in programming languages such as Phython, C/C++ are preferred
