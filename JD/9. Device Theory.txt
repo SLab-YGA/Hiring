@@ -1,0 +1,19 @@
+MTS (Member of Technical Staff), Device Theory
+
+Job Summary:
+We are looking for experienced scientists and engineers specializing in device theory and modeling for superconducting quantum processors to be part of our multidisciplinary team. 
+The successful candidates will create, develop, and improve theoretical models with experimental data for cutting-edge superconducting quantum processors, guiding on their hardware development. 
+All levels of experience are welcome. 
+Candidates with proven leadership skills may be considered for a Team Lead position.
+
+Key Responsibilities: 
+• Develop and refine theoretical models for superconducting quantum processors
+• Simulate the quantum properties and dynamics of superconducting quantum devices
+• Conduct pathfinding research on novel qubits, operational modes, and architectures for superconducting quantum processors
+• Contribute to the creation of experimental data analysis and model fitting tools
+
+Qualifications:
+• An advanced degree or a proven track record of strong performance in at least one of these fields: theoretical condensed matter physics, AMO physics, computational physics and electrical engineering
+• Proficiency in programming languages, notably Python and C/C++
+• Experienced in performing numerical simulations of quantum systems
+• Background in superconducting quantum device theory, including circuit quantization and circuitQED, quantum optics, open quantum systems, or superconductivity is advantageous
