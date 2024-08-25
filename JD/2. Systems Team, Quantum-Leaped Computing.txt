@@ -1,10 +1,20 @@
-MTS (Member of Technical Staff), Systems Team, Quantum-Leaped Computing
+MTS (Member of Technical Staff), Systems Team, Quantum-Leaped Computing (QLC)
+量子跃迁计算，系统团队，技术岗位
+
 
 Job Summary:
 We envision the first practical use of quantum computing through what we call "Quantum-Leaped Computing (QLC)," a heterogeneous system integrating CPUs, GPUs, and Quantum Processing Units (QPUs). 
 We are building a team of creative and result-driven architects to design, implement, evaluate, and optimize our QLC systems. 
 All levels of experience are welcome. Candidates with proven leadership skills may be considered for a Team Lead position.
 
+职位介绍： 
+“量子跃迁计算 (QLC)”是我们产业化量子计算的首个实现形式，是一个集成CPU、GPU和量子处理单元（QPU）的异构系统。
+我们正在组建一支富有创造力且以“交付”为驱动的架构团队，负责设计、实现、评估和优化我们的QLC系统。
+欢迎各类经验水平的候选人。
+具备优秀领导才能的候选人可考虑担任团队负责人职位。
+
+
+=============================================================================================================================
 Key Responsibilities:
 • (For Team Lead) Build and lead a team of computer architects and software engineers for QLC systems.
 • Develop methodologies and research infrastructure for QLC systems.
@@ -14,6 +24,15 @@ Key Responsibilities:
 • Stay at the forefront of deep learning systems and classical-quantum hybrid systems.
 • (For Team Lead) Provide mentorship and guidance to foster the growth of junior colleagues within the team.
 
+主要职责： 
+• （团队负责人）组建并领导一支计算架构师和软件工程师团队。
+• 开发可扩展和高性能的QLC系统。
+• 与跨职能团队合作，集成系统软件和应用算法并优化性能。
+• 紧跟深度学习系统和经典-量子混合系统的前沿动态。 
+• （团队负责人）提供指导和支持，促进团队中初级同事的成长。
+
+
+=============================================================================================================================
 Qualifications:
 • (For Team Lead) A PhD in Computer Science, Computer Engineering, or a related field.
 • Proven record on computer architecture or systems.
@@ -22,3 +41,13 @@ Qualifications:
 • Experience with hardware accelerators (e.g., GPUs, TPUs) for deep learning.
 • Knowledge of quantum computing concepts and technologies is a plus.
 • Experience in developing and optimizing algorithms for large-scale data processing.
+
+任职资格： 
+• （团队负责人）计算机科学、计算机工程或相关领域的博士学位。
+• 在计算机架构或系统方面有显著成果。
+• 深刻理解TensorFlow、PyTorch或Caffe等深度学习框架。
+• 精通Python、C++或Java等编程语言。
+• 具有使用硬件加速器（如GPU、TPU）进行深度学习的经验。
+• 了解量子计算概念和技术者优先。
+• 拥有开发和优化大规模数据处理算法的经验。
+• 高潜力、高成就、有志转方向进入机器学习或量子计算的候选人可以破格考虑，比如，但不限于，做出本领域领先创新工作的数学、理论物理、理论计算机等基础学科的博士。
