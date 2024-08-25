@@ -4,3 +4,11 @@ With over six years of collective experience, our founding team is dedicated to 
 By collaborating with academic and industrial partners and using our leading fluxonium technologies, we focus on developing large-scale superconducting quantum processors for "quantum-leaped" artificial intelligence systems and applications. 
 We are hiring across multiple disciplines and welcome candidates at all levels of education and experience, providing comprehensive training. 
 Leadership positions are available for those with proven skills. Our mission is guided by the values of endurance, passion, and aptitude.
+
+关于我们:
+S实验室最近在地处深圳的粤港澳大湾区量子科学中心成立。
+我们的创始团队拥有超过六年的集体经验，致力于实现量子计算的潜力。
+通过与学术和产业伙伴合作，并利用我们领先的fluxonium技术，我们专注于开发大规模超导量子处理器，用于“量子跃迁”的人工智能系统和应用。
+我们在多个学科招聘，欢迎各个教育和经验水平的候选人，并提供全面培训。
+对于具有优秀技能的人才，我们提供领导职位。
+为在多变的环境中长期努力以实现我们艰巨的事业，我们崇尚毅力、激情和敏捷。
