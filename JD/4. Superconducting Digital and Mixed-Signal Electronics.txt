@@ -1,4 +1,6 @@
 MTS (Member of Technical Staff), Superconducting Digital and Mixed-Signal Electronics
+超导数字和数模混合电路，技术岗位
+
 
 Job Summary:
 We are seeking skilled and motivated engineers with expertise in digital and mixed-signal design and testing to join our multidisciplinary team. 
@@ -6,6 +8,14 @@ The focus will be on developing superconducting digital logic and mixed-signal c
 All levels of experience are welcome. 
 Candidates with proven leadership skills may be considered for a Team Lead position.
 
+职位介绍： 
+我们正在寻找具有数字和混合信号设计及测试专长的技术熟练和积极主动的工程师加入我们的多学科团队。
+工作重点将放在开发超导数字逻辑和混合信号电路，用于超导量子比特的可扩展控制。
+欢迎各类经验水平的候选人。
+具备优秀领导才能的候选人可考虑担任团队负责人职位。
+
+
+=============================================================================================================================
 Key Responsibilities:
 • (For Team Lead) Build and lead a team of engineers and scientists for the superconducting digital and mixed signal electronics for the control of superconducting qubits.
 • Develop new innovative solutions for digital and mixed-signal circuits using superconducting materials and devices. 
@@ -17,6 +27,18 @@ Key Responsibilities:
 • Collaborate with cross-functional teams to integrate superconducting control electronics with superconducting qubits and optimize performance.
 • (For Team Lead) Provide mentorship and guidance to foster the growth of junior colleagues within the team.
 
+主要职责： 
+• （团队负责人）构建并领导一个由工程师和科学家组成的团队，专注于控制超导量子比特的超导数字和混合信号电子学的研发。
+• 开发使用超导材料和器件的数字与混合信号电路的创新解决方案。
+• 开发新的具有超导数字和混合信号器件的超导量子比特控制架构。
+•（作为设计工程师）执行超导电路的仿真和物理设计。
+•（作为设计工程师）参与相应的EDA工具开发。
+•（作为测试工程师）执行超导电子器件的测量和特性评估。
+•（作为测试工程师）参与超导电路参数和性能计量方法和自动化测试系统的开发。 
+•（团队负责人）提供指导和支持，促进团队中初级同事的成长。
+
+
+=============================================================================================================================
 Key Qualifications:
 • An advanced degree or extensive working experience in relevant technical fields such as experimental or theoretical condensed matter physics, computational electromagnetism, electrical engineering, materials science, cryogenic engineering, or computer engineering.
 • A proven track record in one of the following fields: frontend/backend digital logic design and verification, radio frequency (RF) and mixed signal circuits, or superconducting electronics.
@@ -26,3 +48,13 @@ Key Qualifications:
 • (For tester) Experience in device measurement and characterization. 
 • (For tester) Experience in cryogenic systems and software control of lab instruments. 
 • Prior experience with superconducting digital logic technologies such as RSFQ or aQFP is a plus. 
+
+任职资格：
+• 在实验或理论凝聚态物理学、计算电磁学、电气工程、材料科学、低温工程或计算机工程等相关技术领域中拥有高级学位或丰富的工作经验。
+• 在以下领域之一具有成功记录：前端/后端数字逻辑设计与验证、射频（RF）与混合信号电路，或超导电子学技术。
+• 强大的编程技能。
+•（对于设计工程师）精通数字或模拟设计/仿真工具，如Cadence、Synopsys、Ansys。
+•（对于设计工程师）熟悉集成电路芯片制造工艺和流片程序。
+•（对于测试工程师）在设备测量和特性分析方面的经验。
+•（对于测试工程师）在低温系统和实验室仪器的软件控制方面的经验。
+• 有超导数字逻辑技术（如SFQ或QFP）的经验者优先。
