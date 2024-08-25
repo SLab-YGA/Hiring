@@ -1,4 +1,6 @@
 MTS (Member of Technical Staff), Fabrication Process
+芯片制造工艺，技术岗位
+
 
 Job Summary:
 Chip fabrication is essential to our program for developing large-scale, high-quality superconducting quantum processors. 
@@ -7,6 +9,15 @@ We are seeking creative and results-driven researchers and engineers to join our
 All levels of experience are welcome. 
 Candidates with proven leadership skills may be considered for a Team Lead position.
 
+职位介绍：
+芯片制造是我们开发大规模高质量超导量子处理器项目的关键。
+我们通过不断地技术创新，以及与工业和学术伙伴的紧密合作，努力实现高质量和高效率的芯片制备技术。
+我们正在寻找富有创造力且以结果为导向的研究人员/工程师加入我们充满活力的多学科制造团队。
+欢迎各类经验水平的候选人。
+具备优秀领导才能的候选人可考虑担任团队负责人职位。
+
+
+=============================================================================================================================
 Key Responsibilities:
 • Based on your background and expertise, you will be responsible for one or more modules in the development of a quantum processor. Your responsibilities may include, but are not limited to:
   ￮ Fabrication processes (e.g., lithography, deposition, etching, thinning/polishing)
@@ -18,8 +29,27 @@ Key Responsibilities:
 • (For Team Lead) Lead research projects and deliver timely impactful results
 • (For Team Lead) Provide mentorship and guidance to foster the growth of junior colleagues within the team
 
+主要职责：
+• 根据您的背景和专长，您将负责量子处理器开发中的一个或多个模块。您的职责可能包括但不限于：
+  ￮ 制造工艺（例如光刻、沉积、蚀刻、减薄/抛光）
+  ￮ 工艺整合
+  ￮ 工艺量测技术
+  ￮ 超导和电介质材料研究
+  ￮ 3D集成和先进封装技术
+• 与学术和工业伙伴紧密合作
+• （团队负责人）领导研究项目并及时交付有影响力的成果
+• （团队负责人）提供指导和支持，促进团队年轻成员的成长
+
+
+=============================================================================================================================
 Qualifications: 
 • An advanced degree or extensive working experience in relevant technical fields such as superconducting electronics fabrication, semiconductor fabrication, optoelectronics, MEMS, experimental condensed matter physics, materials science, or advanced packaging
 • A proven track record of strong performance in at least one of these fields, and the corresponding in-depth understanding of the technologies
 • Passion and endurance for quantum computing and long-term research projects
 • Strong sense of innovation and team collaboration
+
+任职资格：
+• 在相关技术领域拥有高级学位或丰富工作经验，例如超导电子制造、半导体制造、光电子学、微机系统、实验凝聚态物理、材料科学或先进封装。
+• 在至少一个相关领域有强劲的业绩记录，对于本领域有充分的经验和见解。
+• 对量子计算和长期研究项目充满热情和耐心
+• 具有较强的创新意识和良好的团队合作意识
