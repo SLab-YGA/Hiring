@@ -1,4 +1,6 @@
 MTS (Member of Technical Staff), Superconducting Quantum Processor 
+超导量子处理器，技术岗位
+
 
 Job Summary:
 To unleash the unprecedented power of quantum computing, we are pioneering the development of large-scale, high-quality superconducting processors based on fluxonium qubits. 
@@ -7,6 +9,20 @@ To continue our mission at S Lab, we are seeking creative and result-driven rese
 This team will cover superconducting device theory, superconducting quantum circuit design, cryogenic characterization of quantum devices, processor calibration, and hardware and software integration. 
 All levels of experience are welcome. Candidates with proven leadership skills may be considered for a Team Lead position.
 
+职位介绍： 
+为了释放量子计算的前所未有的力量，我们正在率先开发基于fluxonium量子比特的大规模高质量超导处理器。
+在过去的几年中，我们的团队开发了基础技术，包括具有毫秒相干时间的高质量量子比特、高效且稳定的量子比特初始化、多种高保真度的双量子比特门以及在设计、制造和校准多量子比特fluxonium处理器方面的创新。
+为了在S实验室的继续我们的使命，我们正在寻找富有创造力且以结果为导向的研究人员和工程师来组建一支多学科团队。
+该团队将涵盖超导器件理论、超导量子电路设计、量子器件的低温表征、处理器校准以及硬件和软件集成。
+欢迎各类经验水平的候选人。
+具备优秀领导才能的候选人可考虑担任团队负责人职位。
+
+
+=============================================================================================================================
 Qualification:
 • An advanced degree or extensive working experience in the relevant technical fields: experimental or theoretical condensed matter physics, AMO physics, computational electromagnetism, electrical engineering, material science, cryogenic engineering, computer engineering. 
 • Demonstration of strong track record of success in one the relevant technical fields.
+
+任职资格：
+• 在相关技术领域拥有高级学位或丰富工作经验：实验或理论凝聚态物理、原子分子光学（AMO）物理、计算电磁学、电气工程、材料科学、低温工程、计算机工程。
+• 在相关技术领域有成功记录。
