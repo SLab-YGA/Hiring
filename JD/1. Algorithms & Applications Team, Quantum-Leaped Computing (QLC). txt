@@ -1,11 +1,21 @@
-# Hiring
-# MTS (Member of Technical Staff), Algorithms & Applications Team, Quantum-Leaped Computing (QLC)
+MTS (Member of Technical Staff), Algorithms & Applications Team, Quantum-Leaped Computing (QLC)
+量子跃迁计算，算法和应用团队，技术岗位
+
 
 Job Summary:
 We envision the first practical use of quantum computing through what we call "Quantum-Leaped Computing (QLC)," a heterogeneous system integrating CPUs, GPUs, and Quantum Processing Units (QPUs). 
 We are building a team of creative and result-driven algorithmic engineers for the design, implementation, evaluation, and optimization of classical-quantum hybrid algorithms for our QLC systems. 
-All levels of experience are welcome. Candidates with proven leadership skills may be considered for a Team Lead position.
+All levels of experience are welcome. 
+Candidates with proven leadership skills may be considered for a Team Lead position.
 
+职位介绍：
+“量子跃迁计算 (QLC)”是我们产业化量子计算的首个实现形式，是一个集成CPU、GPU和量子处理单元（QPU）的异构系统。
+我们正在组建一支富有创造力且以“交付”为驱动的算法工程团队，负责设计、实现、评估和优化我们QLC系统的经典-量子混合算法。
+欢迎各类经验水平的候选人。
+具备优秀领导才能的候选人可考虑担任团队负责人职位。
+
+
+=============================================================================================================================================================================
 Key Responsibilities:
 • (For Team Lead) Build and lead a team of algorithmic engineers with expertise in AI, quantum, and classical-quantum algorithms.
 • Develop, implement, evaluate, and optimize classical-quantum AI algorithms.
@@ -14,6 +24,15 @@ Key Responsibilities:
 • Stay at the forefront of innovations in AI, quantum computing, and classical-quantum hybrid algorithms.
 • (For Team Lead) Provide mentorship and guidance to foster the growth of junior colleagues within the team.
 
+主要职责：
+• （团队负责人）组建并领导一支在AI、量子和经典-量子算法领域的专家算法工程团队。
+• 开发、实现、评估和优化经典-量子AI算法。
+• 与外部和内部专家在算法、领域应用和系统架构方面进行合作。
+• 紧跟AI、量子计算和经典-量子混合算法的最新创新。 
+• （团队负责人）提供指导和支持，促进团队中初级同事的成长。
+
+
+=============================================================================================================================================================================
 Qualifications:
 • (For Team Lead) A doctoral degree (PhD) in Computer Science, Computer Engineering, Mathematics, Theoretical Physics, or a closely related discipline with a strong record in quantum or classical-quantum algorithms.
 • Proficiency in understanding and working with AI algorithms.
@@ -21,3 +40,12 @@ Qualifications:
 • Experience with utilizing hardware accelerators (e.g., GPUs, TPUs) specifically for deep learning applications.
 • Familiarity with the principles of quantum computing and related technologies is a plus.
 • Proven track record in developing and fine-tuning algorithms designed for processing large-scale datasets.
+
+任职资格： 
+• （团队负责人）拥有计算机科学、计算机工程、数学、理论物理或相关学科的博士学位，并在量子或经典-量子算法方面有显著成果。
+• 熟练掌握并应用AI算法。
+• 精通Python、C++或Java等编程语言。
+• 具备使用硬件加速器（如GPU、TPU）进行深度学习应用的经验。
+• 熟悉量子计算及相关技术者优先。
+•	拥有开发和优化大规模数据集处理算法的成功经验。
+•	高潜力、高成就、有志转方向进入机器学习或量子计算的候选人可以破格考虑，比如，但不限于，做出本领域领先创新工作的数学、理论物理、理论计算机等基础学科的博士。
