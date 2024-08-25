@@ -2,3 +2,8 @@ Application Process:
 Interested candidates should submit their CV, cover letter, and any relevant project portfolios or publications to slab@quantumsc.cn
 Join S Lab and contribute to groundbreaking advancements in quantum computing and artificial intelligence. 
 Apply now to be part of a transformative journey shaping the future of technology.
+
+申请流程： 
+有意者请将简历、求职信及相关项目作品集或出版物发送至slab@quantumsc.cn
+加入S实验室，为量子计算和人工智能的突破性进展做出贡献。
+立即申请，成为塑造未来技术变革的一部分。
